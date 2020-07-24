@@ -14,6 +14,7 @@ Leonard gostaria de pegar também de inserir neste arquivo os dados das empresas
 
 ### Complemento
 
+- Implementar a estrutura básica de um projeto em Ruby puro.
 - Deverá ser feito tudo mockado, a criação do arquivo, a escrita dos primeiros dados no arquivo.
 - Deverá ser implementado a classe que ira criar o arquivo.
 - Deverá ser implementado a classe que ira popular o arquivo com os dados do sócio.
