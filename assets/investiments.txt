@@ -1,1 +1,1 @@
-Fazendo um teste
+Fazendo um teste\nUma nova linha no arquivo\n
